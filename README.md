@@ -11,9 +11,9 @@ It will help people to get awareness of the area and neighborhood before moving 
 
 ### 2. Data Section:
 Data Link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
-![](6.png)
 
 Will use Scarborough dataset which we scrapped from wikipedia on Week 3. Dataset consisting of latitude and longitude, zip codes.
+![](6.png)
 
 Foursquare API Data:
 We will need data about different venues in different neighborhoods of that specific borough. In order to gain that information we will use "Foursquare" locational information. Foursquare is a location data provider with information about all manner of venues and events within an area of interest. Such information includes venue names, locations, menus and even photos. As such, the foursquare location platform will be used as the sole data source since all the stated required information can be obtained through the API.
@@ -41,7 +41,6 @@ To compare the similarities of two cities, we decided to explore neighborhoods, 
 
 Using K-Means Clustering Approach
 
-Using%20K-Means%20Clustering%20Approach%20-%2010th%20Most%20Common%20Venue.png
 
 Most Common venues near Neighborhood
 ![](2.png)
@@ -57,10 +56,10 @@ Map of Clusters in Scarborough
 
 Average Housing Price by Clusters in Scarborough
 
-Average%20Housing%20Price.png
+![](5.png)
 
 School Ratings by Clusters in Scarborough
-![](5.png)
+![](7.png)
 
 The Location:
 Scarborough is a popular destination for new immigrants in Canada to reside. As a result, it is one of the most diverse and multicultural areas in the Greater Toronto Area, being home to various religious groups and places of worship. Although immigration has become a hot topic over the past few years with more governments seeking more restrictions on immigrants and refugees, the general trend of immigration into Canada has been one of on the rise.
