@@ -1,5 +1,6 @@
 # Housing API Webscrapping and ML
 
+### 1. Introduction:
 The purpose of this Project is to help people in exploring better facilities around their neighborhood. It will help people making smart and efficient decision on selecting great neighborhood out of numbers of other neighborhoods in Scarborough, Toranto.
 
 Lots of people are migrating to various states of Canada and needed lots of research for good housing prices and reputated schools for their children. This project is for those people who are looking for better neighborhoods. For ease of accessing to Cafe, School, Super market, medical shops, grocery shops, mall, theatre, hospital, like minded people, etc.
@@ -8,7 +9,7 @@ This Project aim to create an analysis of features for a people migrating to Sca
 
 It will help people to get awareness of the area and neighborhood before moving to a new city, state, country or place for their work or to start a new fresh life.
 
-2. Data Section
+### 2. Data Section:
 Data Link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
 
 Will use Scarborough dataset which we scrapped from wikipedia on Week 3. Dataset consisting of latitude and longitude, zip codes.
@@ -32,7 +33,7 @@ Map of Scarborough
 
 Map%20of%20Scarborough.png
 
-3. Methodology Section
+### 3. Methodology Section
 Clustering Approach:
 To compare the similarities of two cities, we decided to explore neighborhoods, segment them, and group them into clusters to find similar neighborhoods in a big city like New York and Toronto. To be able to do that, we need to cluster data which is a form of unsupervised machine learning: k-means clustering algorithm.
 
@@ -47,7 +48,7 @@ Most%20Common%20venues%20near%20neighborhood.png
 Work Flow:
 Using credentials of Foursquare API features of near-by places of the neighborhoods would be mined. Due to http request limitations the number of places per neighborhood parameter would reasonably be set to 100 and the radius parameter would be set to 500.
 
-4. Results Section
+### 4. Results Section
 Map of Clusters in Scarborough
 
 Map%20of%20Clusters%20Scarborough.png
@@ -66,7 +67,7 @@ Scarborough is a popular destination for new immigrants in Canada to reside. As 
 Foursquare API:
 This project have used Four-square API as its prime data gathering source as it has a database of millions of places, especially their places API which provides the ability to perform location search, location sharing and details about a business.
 
-5. Discussion Section
+### 5. Discussion Section
 Problem Which Tried to Solve:
 The major purpose of this project, is to suggest a better neighborhood in a new city for the person who are shiffting there. Social presence in society in terms of like minded people. Connectivity to the airport, bus stand, city center, markets and other daily needs things nearby.
 
