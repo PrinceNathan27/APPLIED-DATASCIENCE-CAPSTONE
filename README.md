@@ -31,7 +31,8 @@ The data retrieved from Foursquare contained information of venues within a spec
 8. Venue Category
 Map of Scarborough
 
-Map%20of%20Scarborough.png
+
+![](1.png)
 
 ### 3. Methodology Section
 Clustering Approach:
