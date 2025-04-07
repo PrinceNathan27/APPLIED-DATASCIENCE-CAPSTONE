@@ -1,1 +1,1 @@
-# APPLIED-DATASCIENCE-CAPSTONE
+# Clustering and Segmenting Project 
