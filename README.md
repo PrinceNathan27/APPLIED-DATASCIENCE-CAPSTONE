@@ -11,6 +11,7 @@ It will help people to get awareness of the area and neighborhood before moving 
 
 ### 2. Data Section:
 Data Link: https://en.wikipedia.org/wiki/List_of_postal_codes_of_Canada:_M
+![](6.png)
 
 Will use Scarborough dataset which we scrapped from wikipedia on Week 3. Dataset consisting of latitude and longitude, zip codes.
 
@@ -43,8 +44,8 @@ Using K-Means Clustering Approach
 Using%20K-Means%20Clustering%20Approach%20-%2010th%20Most%20Common%20Venue.png
 
 Most Common venues near Neighborhood
-
-Most%20Common%20venues%20near%20neighborhood.png
+![](2.png)
+![](3.png)
 
 Work Flow:
 Using credentials of Foursquare API features of near-by places of the neighborhoods would be mined. Due to http request limitations the number of places per neighborhood parameter would reasonably be set to 100 and the radius parameter would be set to 500.
@@ -52,15 +53,14 @@ Using credentials of Foursquare API features of near-by places of the neighborho
 ### 4. Results Section
 Map of Clusters in Scarborough
 
-Map%20of%20Clusters%20Scarborough.png
+![](4.png)
 
 Average Housing Price by Clusters in Scarborough
 
 Average%20Housing%20Price.png
 
 School Ratings by Clusters in Scarborough
-
-School%20Ratings%20by%20Clusters.png
+![](5.png)
 
 The Location:
 Scarborough is a popular destination for new immigrants in Canada to reside. As a result, it is one of the most diverse and multicultural areas in the Greater Toronto Area, being home to various religious groups and places of worship. Although immigration has become a hot topic over the past few years with more governments seeking more restrictions on immigrants and refugees, the general trend of immigration into Canada has been one of on the rise.
